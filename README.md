@@ -12,7 +12,7 @@ cd medsec-resilience
 pip install -r requirements.txt
 
 # 3. Run the intelligent monitoring simulation
-python test.py
+python main_project.py
 
 ## 🧑‍💻 Run and Visualize Locally (PyCharm / VS Code)
 
